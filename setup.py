@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='api-typewith',
+    name='typewith-api',
     version='0.1.0',
     author='Roberto Mello',
     author_email='roberto.mello@typewith.ai',
